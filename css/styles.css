@@ -45,7 +45,7 @@ h1
 
  .content
  {
-     background-color: antiquewhite;
+     background-color: rgb(215, 215, 250);
      padding: 10px;
  }
 @media screen and (max-width: 900px){
@@ -60,3 +60,4 @@ h1
     {
         width: 50%;
     }
+}
