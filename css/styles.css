@@ -30,3 +30,9 @@ h1
  {
      padding: 8px;
  }
+
+ .column
+ {
+     float: left;
+     width: 25%;
+ }
