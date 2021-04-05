@@ -55,3 +55,8 @@ h1
     }
     
 }
+@media screen and (max-width: 600px){
+    .column
+    {
+        width: 50%;
+    }
