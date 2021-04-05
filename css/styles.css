@@ -42,3 +42,9 @@ h1
      display: table;
      clear: both;
  }
+
+ .content
+ {
+     background-color: antiquewhite;
+     padding: 10px;
+ }
